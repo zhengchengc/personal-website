@@ -1,6 +1,6 @@
 ---
 title: "Probation meeting"
-date: .Date
+date: "2022-01-21 1:10AM"
 author: zhengchengc
 draft: false
 ---
