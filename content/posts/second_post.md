@@ -14,8 +14,14 @@ draft: false
 - ArrayList in Java can be seen as a vector in C++.
 - ArrayList is not Synchronized. Its equivalent synchronized class in Java is Vector.
   
-
 ### 2. Difference between ArrayList and LinkedList
+| No. | Key | ArrayList | LinkedList |
+|-----|-----|-----------|------------|
+| 1 | Internal Implementation | ArrayList internally uses a dynamic array to store its elements. | LinkedList uses Doubly Linked List to store its elements. |
+| 2 | Manipulation | ArrayList is slow as array manipulation is slower. | LinkedList is faster being node based as not much bit shifting required. |
+| 3 | Implementation | ArrayList implements only List. | LinkedList implements List as well as Queue. It can acts as a queue as well. |
+| 4 | Access | ArrayList is faster in storing and accessing data. | LinkedList is faster in manipulation of data. |
+
 ### 3. MergeSort
 ### 4. How concurrency is achieved.
 
