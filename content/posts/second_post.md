@@ -7,6 +7,14 @@ draft: false
 
 ## Algorithms and Data structure
 ### 1. ArrayList
+- ArrayList inherits AbstractList class and implements the List interface.
+- ArrayList is initialized by the size. However, the size is increased automatically if the collection grows or shrinks if the objects are removed from the collection.
+- Java ArrayList allows us to randomly access the list.
+- ArrayList can not be used for primitive types, like int, char, etc. We need a wrapper class for such cases.
+- ArrayList in Java can be seen as a vector in C++.
+- ArrayList is not Synchronized. Its equivalent synchronized class in Java is Vector.
+  
+
 ### 2. Difference between ArrayList and LinkedList
 ### 3. MergeSort
 ### 4. How concurrency is achieved.
