@@ -6,7 +6,9 @@ draft: false
 ---
 
 ## Algorithms and Data structure
+
 ### 1. ArrayList
+
 - ArrayList inherits AbstractList class and implements the List interface.
 - ArrayList is initialized by the size. However, the size is increased automatically if the collection grows or shrinks if the objects are removed from the collection.
 - Java ArrayList allows us to randomly access the list.
@@ -15,6 +17,7 @@ draft: false
 - ArrayList is not Synchronized. Its equivalent synchronized class in Java is Vector.
   
 ### 2. Difference between ArrayList and LinkedList
+
 | No. | Key | ArrayList | LinkedList |
 |-----|-----|-----------|------------|
 | 1 | Internal Implementation | ArrayList internally uses a dynamic array to store its elements. | LinkedList uses Doubly Linked List to store its elements. |
@@ -23,7 +26,8 @@ draft: false
 | 4 | Access | ArrayList is faster in storing and accessing data. | LinkedList is faster in manipulation of data. |
 
 ### 3. MergeSort
-### 4. How concurrency is achieved.
+
+### 4. How concurrency is achieved
 
 
 ## Java related questions
