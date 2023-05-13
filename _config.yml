@@ -19,7 +19,7 @@ baseurl: ''
 
 # Internalization 国际化
 languages: ["zh-Hans", "zh-Hant", "en", "ja"]
-default_lang: "zh-Hans"
+default_lang: "en"
 
 # Github
 github:
@@ -33,7 +33,7 @@ pwa:
   short_name: 'zhengchengc'
 
 # International
-language: zh-cn
+language: en
 
 # Navigation links
 nav:
@@ -57,12 +57,12 @@ favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2023
 
 # Author 配置博主信息
 author: 'zhengchengc'
 nickname: 'zhengchengc'
-bio: '全栈开发者，热爱前端、运维和架构设计'
+bio: 'Java Software Engineer'
 avatar: '/assets/img/profile.webp'
 
 # Search
