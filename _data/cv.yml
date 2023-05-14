@@ -106,10 +106,9 @@
       company: Symbio (MNF Group)
       time: 2022.01 - Present
       details: >-
-        Developing could-based technologies to provide CPaaS to assist Fortune
-        500 companies with telecommunication to operate 
-        Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience 
-        Testing software and operating speed, increase test coverage for existing code base by 7% 
+        Developing could-based technologies to provide CPaaS to assist Fortune 500 companies with telecommunication to operate \n
+        Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience \n
+        Testing software and operating speed, increase test coverage for existing code base by 7% \n
         Built visual tools to provide operation information, decrease firefighting requests by 13%
       tech: >-
         Techs: Java, Spring framework, MySQL, Docker, RabbitMQ, Elasticsearch,
