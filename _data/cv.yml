@@ -64,59 +64,71 @@
 #       content: "研究生期间主要从事三国鼎立的研究，在本人的帮助下发展了吴蜀联盟 <sup>[2]</sup>；在后期针对魏国的强大作出了七出岐山的决定 <sup>[1]</sup>；与三国主要负责人合作完成了《三个国家的浪漫史》 <sup>[3]</sup>。"
 #     - title: "开发平台"
 #       content: "蜀汉建立的元老，为蜀国的发展和强大贡献了力量。（以上内容均为展示效果填充需要，内容请勿当真！！！）"
-- lang: "en"
-  name: "Chen Zhengcheng"
-  motivation: "Software Engineer"
-  photo: "/assets/img/h3.webp"
-  email: "chen.zhengcheng@foxmail.com"
-  github: "zhuge"
-  linkedin: "chen-zhengcheng"
-  website: "https://www.zhengchengc.dev"
+- lang: en
+  name: Chen Zhengcheng
+  motivation: Software Engineer
+  photo: /assets/img/h3.webp
+  email: chen.zhengcheng@foxmail.com
+  github: zhuge
+  linkedin: chen-zhengcheng
+  website: 'https://www.zhengchengc.dev'
   languages:
-    - idiom: "Chinese"
-    - idiom: "Engilish"
+    - idiom: Chinese
+    - idiom: Engilish
   educations:
-    - degree: "Master-Information Technology"
-      university: "University of Melbourne"
-      time: "2016-2019"
-    - degree: "Bachelor-Material Science and Technology"
-      university: "Wuhan University of Technology"
-      time: "2009-2013"
+    - degree: Master-Information Technology
+      university: University of Melbourne
+      time: 2016-2019
+    - degree: Bachelor-Material Science and Technology
+      university: Wuhan University of Technology
+      time: 2009-2013
   skills:
-    - title: "Languages"
-      skill: 
+    - title: Languages
+      skill:
         - Java
         - JavaScript
         - Python
-    - title: "Back End"
-      skill: 
-        - Spring, Hibernate
-        - NodeJS
-        - Restful APIs, JWT
-    - title: "Databases"
+    - title: Back End
       skill:
-        - MySQL, SQL Server, PostgreSQL
+        - 'Spring, Hibernate'
+        - NodeJS
+        - 'Restful APIs, JWT'
+    - title: Databases
+      skill:
+        - 'MySQL, SQL Server, PostgreSQL'
         - MongoDB
-    - title: "DevOps Skill"
-      skill: 
-        - CI/CD, Jenkins
-        - Docker, AWS
+    - title: DevOps Skill
+      skill:
+        - 'CI/CD, Jenkins'
+        - 'Docker, AWS'
   experience:
-    - role: "Software Engineer"
-      company: "Symbio (MNF Group)"
-      time: "2022.01 - Present"
-      details: "Developing could-based technologies to provide CPaaS to assist Fortune 500 companies with telecommunication to operate \n Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience \n Testing software and operating speed, increase test coverage for existing code base by 7% \n Built visual tools to provide operation information, decrease firefighting requests by 13%"
-      tech: "Techs: Java, Spring framework, MySQL, Docker, RabbitMQ, Elasticsearch, Node"
-    - role: "The union of Shu and Wu"
-      company: "Principal Researcher"
-      time: "2017.10 - 2019.6"
-      details: "Go to the Eastern Wu tongue to fight against the Confucian scholars, borrow the Dongfeng fire to burn the company camp, and borrow arrows from the thatched boat."
-      tech: "Techs: Linux, KVM, Docker, PHP, VueJS"
-    - role : "Seven Release of MengHuo"
-      company: "Principal Researcher"
-      time: "2018.6 - 2018.10"
-      details: "Mainly responsible for formulating ideas and plans for capturing Meng Huo, seven captures and seven verticals finally subdued Meng Huo."
-      tech: "Techs: HTML/CSS/JS, AMAP, REST API"
+    - role: Software Engineer
+      company: Symbio (MNF Group)
+      time: 2022.01 - Present
+      details: >-
+        Developing could-based technologies to provide CPaaS to assist Fortune
+        500 companies with telecommunication to operate 
+        Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience 
+        Testing software and operating speed, increase test coverage for existing code base by 7% 
+        Built visual tools to provide operation information, decrease firefighting requests by 13%
+      tech: >-
+        Techs: Java, Spring framework, MySQL, Docker, RabbitMQ, Elasticsearch,
+        Node
+    - role: The union of Shu and Wu
+      company: Principal Researcher
+      time: 2017.10 - 2019.6
+      details: >-
+        Go to the Eastern Wu tongue to fight against the Confucian scholars,
+        borrow the Dongfeng fire to burn the company camp, and borrow arrows
+        from the thatched boat.
+      tech: 'Techs: Linux, KVM, Docker, PHP, VueJS'
+    - role: Seven Release of MengHuo
+      company: Principal Researcher
+      time: 2018.6 - 2018.10
+      details: >-
+        Mainly responsible for formulating ideas and plans for capturing Meng
+        Huo, seven captures and seven verticals finally subdued Meng Huo.
+      tech: 'Techs: HTML/CSS/JS, AMAP, REST API'
   # honors:
   #   - Award of Wolong University Outstanding Graduates, 2019
   #   - Award of Wolong University President cholarship, 2016
