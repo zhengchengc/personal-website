@@ -105,29 +105,31 @@
     - role: Software Engineer
       company: Symbio (MNF Group)
       time: 2022.01 - Present
-      details: >-
-        Developing could-based technologies to provide CPaaS to assist Fortune 500 companies with telecommunication to operate \n
-        Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience \n
-        Testing software and operating speed, increase test coverage for existing code base by 7% \n
+      details: |
+        Developing could-based technologies to provide CPaaS to assist Fortune 500 companies with telecommunication to operate
+        Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience
+        Testing software and operating speed, increase test coverage for existing code base by 7% 
         Built visual tools to provide operation information, decrease firefighting requests by 13%
-      tech: >-
+      tech: |
         Techs: Java, Spring framework, MySQL, Docker, RabbitMQ, Elasticsearch,
-        Node
-    - role: The union of Shu and Wu
-      company: Principal Researcher
-      time: 2017.10 - 2019.6
-      details: >-
-        Go to the Eastern Wu tongue to fight against the Confucian scholars,
-        borrow the Dongfeng fire to burn the company camp, and borrow arrows
-        from the thatched boat.
-      tech: 'Techs: Linux, KVM, Docker, PHP, VueJS'
-    - role: Seven Release of MengHuo
-      company: Principal Researcher
-      time: 2018.6 - 2018.10
-      details: >-
-        Mainly responsible for formulating ideas and plans for capturing Meng
-        Huo, seven captures and seven verticals finally subdued Meng Huo.
-      tech: 'Techs: HTML/CSS/JS, AMAP, REST API'
+        NodeJS, Kubernetes
+    - role: Java Software Engineer
+      company: CSIRO
+      time: 2020.06 - 2021.06
+      details: |
+        Worked with full development life cycle, designing, coding, testing and deploying Java Web applications programs
+        Ensured that systems are developed achieving necessary design and systems security standards
+        Ensured all projects have appropriate operating and systems documentation
+        Communicated effectively and respectfully with all staff and customers in the interest of good business practice, collaboration and enhancement of company reputation
+        Built a content-based product recommendation system
+      tech: Java, Spring framework, SQL Server, React, TypeScript, Python, TensorFlow
+    # - role: Seven Release of MengHuo
+    #   company: Principal Researcher
+    #   time: 2018.6 - 2018.10
+    #   details: |
+    #     Mainly responsible for formulating ideas and plans for capturing Meng
+    #     Huo, seven captures and seven verticals finally subdued Meng Huo.
+    #   tech: 'Techs: HTML/CSS/JS, AMAP, REST API'
   # honors:
   #   - Award of Wolong University Outstanding Graduates, 2019
   #   - Award of Wolong University President cholarship, 2016
