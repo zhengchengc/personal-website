@@ -73,8 +73,8 @@
   linkedin: chen-zhengcheng
   website: 'https://www.zhengchengc.dev'
   languages:
-    - idiom: Chinese
     - idiom: Engilish
+    - idiom: Chinese
   educations:
     - degree: Master-Information Technology
       university: University of Melbourne
@@ -105,11 +105,13 @@
     - role: Software Engineer
       company: Symbio (MNF Group)
       time: 2022.01 - Present
-      details: |
+      details: |+
         Developing could-based technologies to provide CPaaS to assist Fortune 500 companies with telecommunication to operate
-      details: |
+
         Collaborating with an agile team of 8, communicating with internal teams and stakeholders, working to determine solutions for the user experience
+
         Testing software and operating speed, increase test coverage for existing code base by 7% 
+
         Built visual tools to provide operation information, decrease firefighting requests by 13%
       tech: |
         Techs: Java, Spring framework, MySQL, Docker, RabbitMQ, Elasticsearch,
@@ -117,11 +119,15 @@
     - role: Java Software Engineer
       company: CSIRO
       time: 2020.06 - 2021.06
-      details: |
+      details: |+
         Worked with full development life cycle, designing, coding, testing and deploying Java Web applications programs
+
         Ensured that systems are developed achieving necessary design and systems security standards
+
         Ensured all projects have appropriate operating and systems documentation
+
         Communicated effectively and respectfully with all staff and customers in the interest of good business practice, collaboration and enhancement of company reputation
+        
         Built a content-based product recommendation system
       tech: Java, Spring framework, SQL Server, React, TypeScript, Python, TensorFlow
     # - role: Seven Release of MengHuo
