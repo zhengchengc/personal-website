@@ -42,7 +42,7 @@ nav:
   archives: '/archives.html'
   tags: '/tags.html'
   about:  
-    cv: '/cv.md' 
+    cv: '/cv.html' 
     RSS: '/feed.xml'
 
 # Gray for the whole site 全站灰色
