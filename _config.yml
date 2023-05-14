@@ -41,7 +41,8 @@ nav:
   blog: '/blog/index.html'
   archives: '/archives.html'
   tags: '/tags.html'
-  about:   
+  about:  
+    cv: '/cv.md' 
     RSS: '/feed.xml'
 
 # Gray for the whole site 全站灰色
