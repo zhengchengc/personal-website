@@ -130,7 +130,9 @@
                             {{ e.company }} <span class="time">{{ e.time }}</span>
                         </div>
                         <div class="details">
-                            {{ e.details }}
+                            {% for detail in e.details %}
+                            <div class="detail">{{ detail }}</div>
+                            {% endfor %}
                         </div>
                         <p class="technologies">
                             {{ e.tech }}
