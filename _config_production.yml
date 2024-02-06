@@ -19,7 +19,7 @@ baseurl: ''
 
 # Internalization 国际化
 languages: ["zh-Hans", "zh-Hant", "en", "ja"]
-default_lang: "zh-Hans"
+default_lang: "en"
 
 # Github
 github:
@@ -117,7 +117,7 @@ supports:
   webify: 
 
 # Beian 备案号
-beian: '沪ICP备xxxxxxxx号'
+# beian: '沪ICP备xxxxxxxx号'
 
 # CC License
 cclicense: true
@@ -127,10 +127,10 @@ cclicense: true
 cnzz: 
 
 # Busuanzi Analytics
-busuanzi: true
+#busuanzi: true
 
 # Umami Analytics
-umami:
+#umami:
   status: 
   id: 
   js: 
